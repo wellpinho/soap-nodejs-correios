@@ -1,0 +1,12 @@
+{
+  "name": "soap-nodejs-correios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:wellpinho/soap-nodejs-correios.git",
+  "author": "wellpinho <wellpinho@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "soap": "^0.43.0"
+  }
+}
